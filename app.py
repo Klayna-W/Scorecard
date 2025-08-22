@@ -27,6 +27,7 @@ if "comments" not in st.session_state:
 # -----------------------------
 # --- Load Data ---
 # -----------------------------
+daily_metrics = pd.read_csv("data.csv", parse_dates=["Date"])
 employees = pd.read_csv("Employees.csv", parse_dates=["Hire Date"])
 LAE_Metrics = pd.read_csv("NewData.csv", parse_dates=["Date"])
 Hours = pd.read_csv("Hours.csv", parse_dates=["Date"])
