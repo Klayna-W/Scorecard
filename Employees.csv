@@ -1,0 +1,154 @@
+﻿Employee,Employee Name,Office,Position,Hire Date,Manager
+aaronz,Aaron Zamora,Pico Rivera,Sr Setter,10/21/24,Diana Romero
+franciscoa,Francisco Araujo III,National City,Sr Setter,3/31/25,Maricela Laredo
+JohnEs,John Estrada,DMV,Office Manager,1/12/07,Claudia Selio
+dennisem,Dennise Merdjanian,Santa Ana,Office Manager,2/28/25,Paola A. Sanchez Lomelin
+mariafl,Maria Florencia Tomas,Vista,Office Manager,5/5/25,Estela Cortez
+katherinebe,Katherine Isabel Angelina Bedran,Canoga Park,Office Manager,5/5/25,Paola A. Sanchez Lomelin
+williammo,William Alberto Montiel,Arleta,Office Manager,5/5/25,Paola A. Sanchez Lomelin
+dianaro,Diana Romero,Pico Rivera,Office Manager,5/5/25,Paola A. Sanchez Lomelin
+robertol,Robert Lara,San Pedro,Office Manager,4/21/25,Alfredo J. Carreon Herrera
+luismu,Luis Munoz,La Puente,Office Manager,4/1/25,Maricela Laredo
+emilioc,Emilio J.R. Carranza,Baldwin Park,Office Manager,4/1/25,Maricela Laredo
+hugomar,HUGO F. Martinez Cortez,Fontana 2,Office Manager,4/1/25,Catalina Palma
+carolinar,Carolina Rios Montiel,National City,Office Manager,4/4/25,Estela Cortez
+garyv,Gary Manrique Vasquez,Lynwood,Office Manager,4/8/25,Luis J. Romero Gallardo
+Adonisp,Adonis Perez,Irvine,Office Manager,7/21/25,Paola A. Sanchez Lomelin
+AlbertH,Albert Raul Hernandez,Irvine,Office Manager,7/21/25,Paola A. Sanchez Lomelin
+ErickV,Erick Adrian Velasco Fernandez,Bakersfield,Office Manager,5/19/25,Paola A. Sanchez Lomelin
+MarthaBa,Martha Leticia Barraza,North Hollywood,Office Manager,5/19/25,Paola A. Sanchez Lomelin
+JesusR,Jesus Eduardo Ramirez,Ontario,Office Manager,5/19/25,Catalina Palma
+gabrielah,Gabriela Hernandez,8th Street,Office Manager,6/30/25,Paola A. Sanchez Lomelin
+bryanm,Bryan Mayorga,Pico 2,Office Manager,6/9/25,Paola A. Sanchez Lomelin
+gilbertt@,Gilbert Tinoco,Walnut Park,Office Manager,6/9/25,Alfredo J. Carreon Herrera
+cesaro,Cesar Ochoa,Oxnard,Office Manager,6/9/25,Alfredo J. Carreon Herrera
+karina,Karina Cano,Commercial,Office Manager,8/30/10,Paola A. Sanchez Lomelin
+olgas,Olga Salas,Van Buren,Office Manager,7/30/20,Catalina Palma
+OBarajas,Omar Barajas,Glendora,Office Manager,4/14/16,Paola A. Sanchez Lomelin
+yazmin,Yazmin Martinez,Pomona,Office Manager,9/25/13,Paola A. Sanchez Lomelin
+cindyo,Cindy Paola Olivares,Palmdale,Office Manager,11/7/23,Paola A. Sanchez Lomelin
+ObedD,Obed jr. Dominguez,Pico,Office Manager,1/11/24,Alfredo J. Carreon Herrera
+maribelr,Maribel Jade Ramos,Rancho Cucamonga,Jr Setter,1/24/25,Walter Monarrez
+yeseniamar,Yesenia Cristal Marquez,Rancho Cucamonga,Jr Setter,1/24/25,Obed jr. Dominguez
+joseroc,Jose D. Rocha,Rancho Cucamonga,Jr Setter,12/11/24,Paola A. Sanchez Lomelin
+robertoro,Roberto Clemente Rocha Garcia,Rancho Cucamonga,Jr Setter,3/11/25,Paola A. Sanchez Lomelin
+rubenq,Ruben Quinones Castro,Pomona,Jr Setter,2/7/25,Yazmin Martinez
+natalya,Nataly Estephania Alatorre Ramirez,Irvine,Jr Setter,2/25/25,Paola A. Sanchez Lomelin
+yassairat,Yassaira Leticia Mercado Tellez,San Ysidro,Jr Setter,3/31/25,Gabriela Laura Castro Molinar
+arletten,Arlette Marie Nevarez,Bakersfield,Jr Setter,4/14/25,Erick Adrian Velasco Fernandez
+edwardg,Edward jr Garibay,Bakersfield,Jr Setter,4/14/25,Erick Adrian Velasco Fernandez
+yehimenr,Yehimen Uziel Rodriguez-Peña,San Ysidro,Jr Setter,3/31/25,Gabriela Laura Castro Molinar
+patriciama,Patricia Martinez,National City,Jr Setter,7/7/25,Carolina Rios Montiel
+urielz,Uriel Zaragoza,Van Nuys,Jr Setter,7/7/25,Katherine Isabel Angelina Bedran
+mellc,Mell Stefany Contreras Cevallos,Lincoln,Jr Setter,7/21/25,Paola A. Sanchez Lomelin
+Carmenbeltran,Carmen Beltran,Van Nuys,Jr Setter,7/21/25,Katherine Isabel Angelina Bedran
+efrainv,Efrain Valle,Irvine,Jr Setter,8/4/25,Juan Carlos Carlos Valenzuela
+paolam,Paola Nicolle Munoz Rodriguez,Irvine,Jr Setter,8/4/25,Juan Carlos Carlos Valenzuela
+leslieh,Leslie Hernandez,Irvine,Jr Setter,8/4/25,Juan Carlos Carlos Valenzuela
+sheilam,Sheila Morales,Van Buren,Jr Setter,6/23/25,Olga Salas
+StevenU,Steven Valentino Ubence,Rancho Cucamonga,Jr Setter,6/2/25,Paola A. Sanchez Lomelin
+JoseZ,Jose Luis Zepeda,Fontana 2,Jr Setter,6/2/25,HUGO F. Martinez Cortez
+MarisaM,Marisa Antoinette Macias,Baldwin Park,Jr Setter,6/2/25,Emilio J.R. Carranza
+HugoR,Hugo Alejandro Rios Mendoza,Vista,Jr Setter,6/2/25,Maria Florencia Tomas
+nancyalo,Nancy Alonso,Walnut Park,Jr Setter,4/24/25,Gilbert Tinoco
+carolinalu,Carolina Isabel Lemus-Perez,Pico,Jr Setter,4/24/25,Alfredo J. Carreon Herrera
+stephanief,Stephanie Flores,La Puente,Jr Setter,6/23/25,Luis Munoz
+emilya,Emily Aguilar,Baldwin Park,Jr Setter,6/23/25,Emilio J.R. Carranza
+arturol,Arturo Lopez,Fontana 2,Jr Setter,6/23/25,HUGO F. Martinez Cortez
+lauraz,Laura Zuno,Victorville,Jr Setter,6/23/25,Paola A. Sanchez Lomelin
+mariaj,Maria Fabiola Jimenez Munoz,Ontario,Jr Setter,6/23/25,Jesus Eduardo Ramirez
+Dinora,Dinora Vargas,Immigration,Office Manager,5/12/14,Martha E. Bolton
+rosalba,Rosalva Maldonado,El Monte,Floor Assistant,9/24/24,
+yvonnef,Yvonne Flores,8th Street,Floor Assistant,3/12/20,Gabriela Hernandez
+fgutierrez,Francis Gutierrez,North Hollywood,Floor Assistant,9/24/12,Martha Leticia Barraza
+celenep,Celene Paez,Atlantic,Floor Assistant,5/29/23,Alfredo J. Carreon Herrera
+pedrom,Pedro David Matias,Vista,Agent,2/26/20,Maria Florencia Tomas
+jazminhol,Jazmin Holguin,Phone Sales,Agent,12/27/19,Paola A. Sanchez Lomelin
+alexandram,Alexandra Rae Moore,Phone Sales,Agent,12/27/19,Paola A. Sanchez Lomelin
+ismaelv,Ismael Velazquez,Phone Sales,Agent,5/14/20,Paola A. Sanchez Lomelin
+rafaelr,Rafael Carlos Ravago,Pomona,Agent,8/28/20,Yazmin Martinez
+gloriaf,Gloria Mayte Franco,Santa Ana,Agent,9/15/20,Dennise Merdjanian
+victordiaz,Victor Naigel Diaz,Baldwin Park,Agent,1/12/23,Emilio J.R. Carranza
+fernandomon,Fernando Montes De Oca Jr,Phone Sales,Agent,3/25/21,Paola A. Sanchez Lomelin
+alonsod,Alonso Reyes Diaz,Vista,Agent,4/8/21,Maria Florencia Tomas
+avelazquez,Anet Velazquez Flores,Escondido,Agent,6/24/19,Carolina Rios Montiel
+jgonzalez,Jazmine Gonzalez,Victorville,Agent,12/3/18,Luis J. Romero Gallardo
+AlejandraRa,Alejandra Ramirez,La Puente,Agent,12/31/18,Luis Munoz
+make,Marilyn A. Ake,Fontana,Agent,1/14/19,Daniel A. Rodriguez Ayala
+mramos,Mayela Ramos,Fontana 2,Agent,5/22/17,HUGO F. Martinez Cortez
+creyes,Claudia Y. Reyes Sanchez,Fontana,Agent,2/13/17,Daniel A. Rodriguez Ayala
+juang,Juan A. Godinez Hernandez,Commercial,Agent,4/9/15,Karina Cano
+gcastellanos,Glenda Lizette Melendez Castellanos,Anaheim,Agent,2/18/11,Luis J. Romero Gallardo
+rivasc,Claudia A. Rivas Valdes,Pico 2,Agent,12/30/14,Bryan Mayorga
+kcoronado,Karen Coronado,National City,Agent,8/5/11,Maricela Laredo
+AbrahamD,Abraham Duenas,Phone Sales,Agent,3/11/16,Paola A. Sanchez Lomelin
+oscarg,Oscar Garcia,Anaheim,Agent,1/3/09,Luis J. Romero Gallardo
+gorellana,Geinsi Orellana,Bristol,Agent,8/16/14,Luis J. Romero Gallardo
+aduran,Ana Elvira Hernandez,Arleta,Agent,7/30/12,William Alberto Montiel
+Luisro,Luis Romero,Van Nuys,Agent,1/31/23,Katherine Isabel Angelina Bedran
+wnolasco,William J. Nolasco,Pico 2,Agent,6/26/14,Bryan Mayorga
+ariasj,Jorge H. Ramirez Arias,National City,Agent,3/31/15,Karen Coronado
+msanchez,Martha R. Sanchez Fernandez,National City,Agent,10/10/14,Karen Coronado
+sofiaga,Sofia M. Galvan,Ontario,Agent,1/29/16,Jesus Eduardo Ramirez
+scarosales,Scarlet Rosales,Ontario,Agent,7/18/14,Jesus Eduardo Ramirez
+FabianC,Fabian Sebastian Chavez,La Puente,Agent,6/12/23,Luis Munoz
+isela,Isela Parra,Van Buren,Agent,8/9/23,Olga Salas
+andreae,Andrea Emely Elias,Santa Ana,Agent,9/11/23,Dennise Merdjanian
+stephaniev,Stephanie Valdez,Fontana,Agent,5/29/23,Daniel A. Rodriguez Ayala
+MarisolR,Marisol Romero,El Monte,Agent,4/25/23,
+almag,Alma Alicia Gonzalez,Van Buren,Agent,5/1/23,Olga Salas
+guillermoc,Guillermo A Corpeno Reyes,Arleta,Agent,1/23/23,William Alberto Montiel
+SandraV,Sandra Janet Vargas,Phone Sales,Agent,1/9/23,Paola A. Sanchez Lomelin
+Cynthiar,Cynthia C. Rivera,Ontario,Agent,9/25/20,Jesus Eduardo Ramirez
+rickyc,Ricky Castillo,Pomona,Agent,10/9/20,Yazmin Martinez
+cristinal,Cristina Lira,Van Nuys,Agent,3/24/22,Luis J. Romero Gallardo
+luzg,Luz Maria Castorena,Ontario,Agent,5/2/22,Jesus Eduardo Ramirez
+samanthav,Samantha Vasquez,Bristol,Agent,6/6/22,Luis J. Romero Gallardo
+walter,Walter Monarrez,Walnut Park,Agent,6/16/22,Gilbert Tinoco
+vanesaa,Vanesa Yoselin Asencio,8th Street,Agent,6/20/24,Gabriela Hernandez
+jesusf,Jesus Anibal Fernandez Masgo,Commercial,Agent,6/26/24,Karina Cano
+andresm,Andres Felipe Montero Malaver,Baldwin Park,Agent,3/28/24,Emilio J.R. Carranza
+AbrahamP,Abraham Perez,Huntington Park,Agent,3/21/24,Alfredo J. Carreon Herrera
+Antonios,Antonio Sanchez,Lincoln,Agent,3/27/24,Jacquelyn Ramirez
+josemun,Jose Fernando Munoz,Lynwood,Agent,4/4/24,Gary Manrique Vasquez
+marinaag,Marina Aguayo,Lynwood,Agent,4/22/24,Gary Manrique Vasquez
+AlexC,Alex Orlando Cruz,North Hollywood,Agent,4/23/24,Martha Leticia Barraza
+marianara,Mariana Ramirez,Atlantic,Agent,5/15/24,Celene Paez
+edwards,Edward Anthony Sandoval,Phone Sales,Agent,5/17/24,Paola A. Sanchez Lomelin
+navillel,Naville Lopez-Moreno,Commercial,Agent,5/31/24,Karina Cano
+ivanra,Ivan Ramirez,Van Buren,Agent,5/31/24,Olga Salas
+alexanderm,Alexander Manuel Meza,Bristol,Agent,9/25/23,Luis J. Romero Gallardo
+JorgemA,"Jorge Macias, jr",Pico Rivera,Agent,9/25/23,Diana Romero
+GeorgeL,George David Lara,Fontana 2,Agent,9/27/23,HUGO F. Martinez Cortez
+landih,Landy B. Padilla Hernandez,Palmdale,Agent,9/27/23,Cindy Paola Olivares
+diannah,Dianna Hernandez,Fontana,Agent,10/9/23,Daniel A. Rodriguez Ayala
+MarvinA,Marvin Aldair Pinto,Oxnard,Agent,10/9/23,Cesar Ochoa
+irvinm,Irvin M. Montano Luna,Phone Sales,Agent,10/9/23,Paola A. Sanchez Lomelin
+mariavel,Maria Elena Velasquez,Victorville,Agent,11/2/23,Luis J. Romero Gallardo
+alfredome,Alfredo Jr. Mejia,Pico,Agent,1/29/24,Obed jr. Dominguez
+GracielaM,Graciela Monique Hernandez,Huntington Park,Agent,12/6/23,Gabriela Hernandez
+mariselaz,Marisela Zazueta,Victorville,Agent,1/2/24,Luis J. Romero Gallardo
+dianamu,Diana Y. Munoz,Van Buren,Agent,6/6/25,Olga Salas
+kevinpax,Kevin Miguel Paxtor,San Pedro,Agent,1/27/25,Robert Lara
+edgargr,Edgar Orlando Grajeda Perdomo,Van Nuys,Agent,6/30/25,Luis J. Romero Gallardo
+carlosmi,Carlos Andres Millan Gutmann,Commercial,Agent,3/26/25,Karina Cano
+davidc,David Manuel Campos,Arleta,Agent,2/28/25,William Alberto Montiel
+melissace,Melissa Centeno,Santa Ana,Agent,2/28/25,Dennise Merdjanian
+dianaj,Diana Estrada Jimenez,Bakersfield,Agent,12/2/24,Erick Adrian Velasco Fernandez
+erickp,Erick Edgardo Miranda- Picado,Fontana,Agent,12/5/24,Daniel A. Rodriguez Ayala
+ruthp,Ruth Sarai Perez Gomez,Atlantic,Agent,12/5/24,Robert Lara
+rodrigoca,Rodrigo carbajal,Phone Sales,Agent,12/5/24,Paola A. Sanchez Lomelin
+carlosme,Carlos Merino,Walnut Park,Agent,1/15/25,Gilbert Tinoco
+yocelinee,Yocelin Echevarria- Rodriguez,Fontana 2,Agent,1/15/25,HUGO F. Martinez Cortez
+fredm,Fred Muniz,Huntington Park,Agent,1/15/25,Obed jr. Dominguez
+williamg,William joseph Gutierrez,Palmdale,Agent,8/27/24,Cindy Paola Olivares
+andreaam,Andrea Amaya,Palmdale,Agent,9/11/24,Cindy Paola Olivares
+irerih,Ireri Adriana Hernandez,Rancho Cucamonga,Agent,8/14/24,Paola A. Sanchez Lomelin
+alexiaz,Alexia L. Zendejas,Victorville,Agent,10/9/24,Catalina Palma
+axelv,Axel Velazquez Calleros,San Ysidro,Agent,10/9/24,Gabriela Laura Castro Molinar
+alejandrohuer,Alejandro Huerta Islas,San Ysidro,Agent,10/9/24,Gabriela Laura Castro Molinar
+eduardoru,Eduardo Reyes Ruiz,Van Nuys,Agent,11/6/24,Luis J. Romero Gallardo
+barbieb,Barbie Amairani Barrera- Valtierra,Phone Sales,Agent,11/20/24,Paola A. Sanchez Lomelin
+katherinem,Katherine Munoz,Atlantic,Agent,4/11/24,Celene Paez
+karymes,Karyme Segoviano Felix,Escondido,Agent,10/22/24,Carolina Rios Montiel
+danielr,Daniel A. Rodriguez Ayala,Fontana,Office Manager,4/21/25,Catalina Palma
